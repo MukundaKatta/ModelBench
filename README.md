@@ -1,6 +1,6 @@
 # ModelBench — Model serving benchmark toolkit — latency p50/p95/p99, throughput, and model comparison
 
-Model serving benchmark toolkit — latency p50/p95/p99, throughput, and model comparison. ModelBench gives you a focused, inspectable implementation of that idea.
+Model serving benchmark toolkit — latency p50/p95/p99, throughput, and model comparison.
 
 ## Why ModelBench
 
